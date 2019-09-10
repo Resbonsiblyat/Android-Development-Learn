@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Different Language</string>
+
+    <string name="language">语言</string>
+
+    <string name="change_language">改变语言</string>
+</resources>

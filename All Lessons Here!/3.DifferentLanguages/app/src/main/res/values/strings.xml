@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Different Language</string>
+
+    <string name="language">语言</string>
+
+    <string name="change_language">改变语言</string>
+    <string name="language_cn" translatable="false">中文</string>
+    <string name="language_en" translatable="false">ENGLISH</string>
+    <string name="language_auto" translatable="false">自动</string>
+    <string name="language_jp" translatable="false">日语</string>
+    <string name="language_kr" translatable="false">韩语</string>
+</resources>
