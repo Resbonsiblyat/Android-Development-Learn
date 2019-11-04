@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BookList</string>
+    <string name="book_1">信息安全数学基础</string>
+    <string name="book_2">软件项目管理案例教程</string>
+    <string name="book_no_name">创新工程实践</string>
+    <string name="book_unknown">不知名书籍</string>
+    <string name="confirm">确认</string>
+    <string name="cancel">取消</string>
+    <string name="hint_edit">请输入书籍名称</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
